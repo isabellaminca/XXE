@@ -1,4 +1,7 @@
 #!/usr/bin/env php
+/**
+* Usage: php xxe.php <xml_file>
+*/
 <?php
 
 /**

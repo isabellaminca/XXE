@@ -1,8 +1,9 @@
 #!/usr/bin/env php
+<?php
+
 /**
 * Usage: php xxe.php <xml_file>
 */
-<?php
 
 /**
  * A custom external entity handler.
